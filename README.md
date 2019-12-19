@@ -1,7 +1,8 @@
 # RSCnVlionAdSDK
 包含穿山甲
+直接下载导入到工程中
 
-1.Build Settings中Other Linker Flags 增加参数-ObjC
+1.Build Settings中Other Linker Flags 增加参数-ObjC
 
 2. 添加依赖库
 工程需要在TARGETS -> Build Phases中找到Link Binary With Libraries，点击“+”，依次添加下列依赖库
