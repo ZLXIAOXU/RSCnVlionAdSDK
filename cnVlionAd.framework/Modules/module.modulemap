@@ -1,0 +1,6 @@
+framework module cnVlionAd {
+  umbrella header "cnVlionAd.h"
+
+  export *
+  module * { export * }
+}
